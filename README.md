@@ -14,6 +14,6 @@ ESP 8266 chip for enabling wireless communication.
 
 
 ## Version 2
-The second version is currently in development. It replaces the AtMega 328 chip with an on-board ESP32 in order to recude the overall footprint
+The second version is currently in development. It replaces the AtMega 328 chip with an on-board ESP32 in order to reduce the overall footprint
 of the chip. It also features a USB-C connector to facilitate flashing and debugging the controller without having to rely on additional 
 debugging equipment.
